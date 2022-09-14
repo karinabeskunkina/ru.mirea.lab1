@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bba2cdf0-0176-4ad9-8339-3175823f9824" name="Changes" comment="">
+    <list default="true" id="bba2cdf0-0176-4ad9-8339-3175823f9824" name="Changes" comment="Inint">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/punkt4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/punkt5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/punkt6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/punkt7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ru.mirea.lab1/ru/mirea/lab1/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ru.mirea.lab1/ru/mirea/lab1/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +66,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inint" />
   </component>
 </project>
