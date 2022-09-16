@@ -8,7 +8,7 @@ public class Example {
         array = new int[n];
         int a = 0;
         for(int i = 0; i < n; i++){
-            array[i] = sc.nextInt();
+
             a+=array[i];
         }
         System.out.println(a);

@@ -5,15 +5,12 @@ public class punkt6 {
     public static void main(String[] args) {
         String array[];
         array = new String[10];
+
+        double scale = Math.pow(10, 3);
         for(int i = 0; i < 10; i++){
-            String s = Integer.toString(i+1);
-            if(i == 0){
-                array[i] = "1";
-            }
-            else {
-                array[i] = "1/" + s;
-            }
-            System.out.println(array[i]);
+            double u = i;
+            array[i] =  String.format("%.2f", (1 / (u + 1)));
+            System.out.println( array[i]);
         }
 
     }
